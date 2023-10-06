@@ -2,7 +2,6 @@
 
 <head>
 
-
     <title>WEB1- html</title>
 
     <meta charset="utf-8">
@@ -24,7 +23,7 @@
 
 
 
-<h2><학교기출 pdf 다운로드></h2>
+<h2><학교기출 다운로드></h2>
 
 <a href="index1.html">학교기출 다운로드</a> <br>
 
@@ -38,14 +37,14 @@
 
 
 
-<h2><2022 시행 6월 모의고사 pdf 다운로드></h2>
+<h2><2022시행 6월 모의고사 pdf 다운로드></h2>
 
 <a href="index3.html">6월 모의고사 pdf 다운로드</a> <br>
 
 
 
 
-<h2><2022 시행 9월 모의고사 pdf 다운로드></h2>
+<h2><2022시행 9월 모의고사 pdf 다운로드></h2>
 
 <a href="index4.html">9월 모의고사 pdf 다운로드</a> <br>
 
