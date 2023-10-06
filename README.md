@@ -23,17 +23,15 @@
 
 
 
-<h2><학교기출 다운로드></h2>
-
-<a href="index1.html">학교기출 다운로드</a> <br>
-
-
-
 
 <h2><2024 수능특강 pdf 다운로드></h2>
 
 <a href="index2.html">수능특강 pdf 다운로드</a> <br>
 
+
+<h2><학교 기출 pdf 다운로드></h2>
+
+<a href="index1.html">학교 기출 다운로드</a> <br>
 
 
 
