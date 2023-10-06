@@ -32,7 +32,7 @@
 
 <h2><2024 수능특강 pdf 다운로드></h2>
 
-    <a href="index2.html">수능특강 pdf 다운로드</a> <br>
+<a href="index2.html">수능특강 pdf 다운로드</a> <br>
 
 
 
